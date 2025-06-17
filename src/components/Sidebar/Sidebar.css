@@ -50,7 +50,7 @@
     color: #282828;
     cursor: pointer;
 }
-.sidebar .recent-entry :hover{
+.sidebar .recent-entry:hover{
     background-color: #e2e6eb;
     border-radius: 50px;
     
