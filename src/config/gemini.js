@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyAxeL0M5eshCytad36M92un77p1eVk62rg";
+
 const model = 'gemini-2.5-pro';
 const api = 'streamGenerateContent';
 const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:${api}?key=${apiKey}`;
